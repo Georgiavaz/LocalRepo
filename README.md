@@ -1,3 +1,3 @@
-<b>This ia github repo<b>
+<b>This ia github repo</b>
 <br>
 This is Georgia Vaz ;)
